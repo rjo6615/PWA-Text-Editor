@@ -22,7 +22,7 @@ http://localhost:3000. Or it can be accessed on heroku by this link: https://pwa
 
 To use this project, start by typing "npm start" into the terminal. A message in the terminal will say "App listening at http://localhost:3000 🚀". Open the link in your browser and the application is ready to go.
 
-Example gif is listed below:
+Example image is listed below:
 
 ![Example](/client/src/images/example.jpg)
 
