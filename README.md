@@ -24,7 +24,7 @@ To use this project, start by typing "npm start" into the terminal. A message in
 
 Example gif is listed below:
 
-![Example](/images/example.jpg)
+![Example](/client/src/images/example.jpg)
 
 ## Credits
 
